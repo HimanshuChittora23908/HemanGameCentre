@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/HemanGameCentre/static/css/main.6d6b50ea.chunk.css",
+    "main.js": "/HemanGameCentre/static/js/main.0257c735.chunk.js",
+    "main.js.map": "/HemanGameCentre/static/js/main.0257c735.chunk.js.map",
+    "runtime-main.js": "/HemanGameCentre/static/js/runtime-main.3a6812b2.js",
+    "runtime-main.js.map": "/HemanGameCentre/static/js/runtime-main.3a6812b2.js.map",
+    "static/css/2.800be05e.chunk.css": "/HemanGameCentre/static/css/2.800be05e.chunk.css",
+    "static/js/2.24eb70ce.chunk.js": "/HemanGameCentre/static/js/2.24eb70ce.chunk.js",
+    "static/js/2.24eb70ce.chunk.js.map": "/HemanGameCentre/static/js/2.24eb70ce.chunk.js.map",
+    "index.html": "/HemanGameCentre/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/HemanGameCentre/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.6d6b50ea.chunk.css.map": "/HemanGameCentre/static/css/main.6d6b50ea.chunk.css.map",
+    "static/js/2.24eb70ce.chunk.js.LICENSE.txt": "/HemanGameCentre/static/js/2.24eb70ce.chunk.js.LICENSE.txt",
+    "static/media/Anthem.0a561eb6.jpg": "/HemanGameCentre/static/media/Anthem.0a561eb6.jpg",
+    "static/media/Apex.ba179b6d.webp": "/HemanGameCentre/static/media/Apex.ba179b6d.webp",
+    "static/media/Division2.a5b20316.jpg": "/HemanGameCentre/static/media/Division2.a5b20316.jpg",
+    "static/media/Eat_sleep_game_repeat_6125.f643da80.svg": "/HemanGameCentre/static/media/Eat_sleep_game_repeat_6125.f643da80.svg",
+    "static/media/FarCry.50419e05.jpg": "/HemanGameCentre/static/media/FarCry.50419e05.jpg",
+    "static/media/PES2020.e9b9ece8.jpg": "/HemanGameCentre/static/media/PES2020.e9b9ece8.jpg",
+    "static/media/Star-Wars.2fce698d.png": "/HemanGameCentre/static/media/Star-Wars.2fce698d.png",
+    "static/media/SuperMario.c1386f7f.jpg": "/HemanGameCentre/static/media/SuperMario.c1386f7f.jpg",
+    "static/media/Trials.c294826d.webp": "/HemanGameCentre/static/media/Trials.c294826d.webp",
+    "static/media/anno1800.317d9a33.jpg": "/HemanGameCentre/static/media/anno1800.317d9a33.jpg",
+    "static/media/fifa20.38e2fc13.jpg": "/HemanGameCentre/static/media/fifa20.38e2fc13.jpg",
+    "static/media/game1.4d99ad9d.svg": "/HemanGameCentre/static/media/game1.4d99ad9d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a6812b2.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.24eb70ce.chunk.js",
+    "static/css/main.6d6b50ea.chunk.css",
+    "static/js/main.0257c735.chunk.js"
+  ]
+}
